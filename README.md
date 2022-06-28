@@ -41,7 +41,7 @@ git clone https://https://github.com/felixpanzo150-pr
 
 ### Contact
 
-If you want to contact with me you can reach me at [linkedin](https://https://www.linkedin.com/in/felix-panzo/).
+If you want to contact with me you can reach me at [linkedin](https:www.linkedin.com/in/felix-panzo/).
 
 ### License
 
